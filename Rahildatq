@@ -1,23 +1,99 @@
-[
+
     {
         "device_id": "device123",
-        "username": "user1",
-        "password": "pass123",
+        "key": "key12345",
         "expirydate": "31-12-2025",
         "Allowoffline": true
     },
     {
         "device_id": "device456",
-        "username": "user2",
-        "password": "pass456",
+        "key": "key67890",
         "expirydate": "15-06-2025",
         "Allowoffline": false
     },
 {
+        "device_id": "4853c14c75ade4b9",
+        "key": "CLASSSY",
+        "expirydate": "15-06-2027",
+        "Allowoffline": false
+    },
+{
+        "device_id": "d4e368558522738c",
+        "key": "MiyaxKhalifa",
+        "expirydate": "15-06-2026",
+        "Allowoffline": false
+    },
+{
         "device_id": "5664370866f47889",
-        "username": "RAHIL",
-        "password": "RAHIL",
+        "key": "CLASSYMOD",
+        "expirydate": "15-06-2027",
+        "Allowoffline": false
+    },
+{
+        "device_id": "da51de8574819341",
+        "key": "CLASSYMOD",
+        "expirydate": "15-06-2027",
+        "Allowoffline": false
+    },
+{
+        "device_id": "6522cdd2ed21046f",
+        "key": "DHRUV",
+        "expirydate": "15-06-2029",
+        "Allowoffline": false
+    },
+{
+        "device_id": "a952b5334fc27532",
+        "key": "SALMAN",
+        "expirydate": "15-06-2027",
+        "Allowoffline": false
+    },
+{
+        "device_id": "93f65f22b4de6e2d",
+        "key": "RAHILLIVE1",
+        "expirydate": "15-06-2029",
+        "Allowoffline": false
+    },
+{
+        "device_id": "93f65f22b4de6e2d",
+        "key": "RAHILLIVE1",
+        "expirydate": "15-06-2029",
+        "Allowoffline": false
+    },
+{
+        "device_id": "e5a7c0e5a0d65a28",
+        "key": "CLASSSSY",
+        "expirydate": "15-06-2029",
+        "Allowoffline": false
+    },
+{
+        "device_id": "e5a7c0e5a0d65a28",
+        "key": "CLASSSSY",
+        "expirydate": "15-06-2029",
+        "Allowoffline": false
+    },
+{
+        "device_id": "6522cdd2ed21046f",
+        "key": "DHRUV",
+        "expirydate": "15-06-2029",
+        "Allowoffline": false
+    },
+{
+        "device_id": "8b108c7cfc0641ce",
+        "key": "8722",
+        "expirydate": "15-06-2029",
+        "Allowoffline": false
+    },
+{
+        "device_id": "37eaefa7b75aa48a",
+        "key": "KANHAIYA",
+        "expirydate": "15-06-2029",
+        "Allowoffline": false
+    },
+{
+        "device_id": "d6734c86cb92104f",
+        "key": "BLACK",
         "expirydate": "15-06-2029",
         "Allowoffline": false
     }
+]
 ]
